@@ -34,7 +34,7 @@ The navigation is based on a few different layers.
 This is the white background of the nav that spans across the whole width of the page. It encapsulates the whole navigation.
 
 #### nav-container
-I use this part to switch between ```column``` and ```row``` when displaying the navbar on different screen sizes. Column for mobiles, row for desktops.
+I use this part to switch between ```column``` and ```row``` when displaying the navbar on different screen sizes. Column for mobiles, row for desktops. It's also where the width of the navbar is set. Right now the max-width of the navbar is 1000px, but this can be changed of course to fit your needs.
 
 #### nav-header
 This is where the logo (right now it's just text) is located.
