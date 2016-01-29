@@ -1,0 +1,46 @@
+/* 
+THIS FILE IS NOT NEEDED!
+
+This file only creates a simple content layout
+for the demo, it is not a part of the navbar.
+*/
+#main-content {
+  max-width: 1032px;
+  width: 100%;
+  padding-top: 1rem;
+  margin: 0 auto;
+}
+
+.blue-bg {
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: #0082ca;
+  color: #fff;
+  margin-top: 3.2rem;
+  font-size: 2rem;
+  height: 18rem;
+  text-align: center;
+}
+
+.blue-bg > h2 {
+  color: #fff;
+}
+
+.main-article {
+  padding: 0 1rem;
+}
+
+article > p {
+  margin-top: 1rem;
+}
