@@ -1,6 +1,6 @@
 # FlexNav
 
-## [Demo](http://flexnav.bitballoon.com/)
+### [Check out the demo](http://flexnav.bitballoon.com/)
 
 ## What is it?
 FlexNav is a fixed responsive navbar made with flexbox. Its purpose is to be easy to add to your site, simply by copying the css file and the html navigation. I created this navbar for my own use so that I didn't have to go through the pain of making a new responsive navbar for every site.
@@ -30,16 +30,16 @@ and put it at the top of your body section.
 ## How does it work?
 The navigation is based on a few different layers.
 
-### nav-background
+#### nav-background
 This is the white background of the nav that spans across the whole width of the page. It encapsulates the whole navigation.
 
-### nav-container
+#### nav-container
 I use this part to switch between ```column``` and ```row``` when displaying the navbar on different screen sizes. Column for mobiles, row for desktops.
 
-### nav-header
+#### nav-header
 This is where the logo (right now it's just text) is located.
 
-### nav-ul and hide-ul
+#### nav-ul and hide-ul
 ```nav-ul``` adds styling to the navigation items while ```hide-ul``` toggles the mobile menu on and off if you click the menu button.
 
 ## What will change?
