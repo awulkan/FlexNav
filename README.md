@@ -6,7 +6,7 @@
 FlexNav is a fixed responsive navbar made with flexbox. Its purpose is to be easy to add to your site, simply by copying the css file and the html navigation. I created this navbar for my own use so that I didn't have to go through the pain of making a new responsive navbar for every site.
 
 ## How do I use it?
-It's really simple to get started, all you need to do is to copy the **flexnav.css** file and put it into your own site. After that you copy this HTML:
+It's really simple to get started, all you need to do is to copy the **flexnav.css** and **script.js** file and put it into your own site. After that you copy this HTML:
 ```
 <div id="nav-background">
   <div id="nav-container">
