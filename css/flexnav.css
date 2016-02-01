@@ -20,6 +20,7 @@ ul {
 #nav-background {
   position: fixed;
   top: 0;
+  z-index: 9000;
   width: 100%;
   background-color: white;
   border-bottom: 1px solid #ddd;
