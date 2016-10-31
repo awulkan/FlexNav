@@ -1,4 +1,5 @@
 # FlexNav
+#### Project has been put on hold.
 
 ### [Check out the demo](http://flexnav.bitballoon.com/)
 
@@ -43,4 +44,4 @@ This is where the logo (right now it's just text) is located.
 ```nav-ul``` adds styling to the navigation items while ```hide-ul``` toggles the mobile menu on and off if you click the menu button.
 
 ## What will change?
-This navigation is a work in progress. It is not well documented yet and there's still a lot of stuff to iron out. I still haven't done much testing of how it actually works when implementing it on a variety of sites, so use with caution. My plan is to keep making it more stable and efficient until it will be an eady Plug & Play menu usable on all sites. I'm also planning on making it easy to change the styling of the menu.
+This navigation is a work in progress and there's still a lot of things to iron out. I still haven't done much testing of how it actually works when implementing it on a variety of sites, so use with caution. My plan is to keep making it more stable and efficient until it will be an easy Plug & Play menu usable on all sites. I'm also planning on making it easy to change the styling of the menu.
