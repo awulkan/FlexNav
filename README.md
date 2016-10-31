@@ -1,5 +1,5 @@
 # FlexNav
-#### Project has been put on hold.
+## Project has been put on hold.
 
 ### [Check out the demo](http://flexnav.bitballoon.com/)
 
