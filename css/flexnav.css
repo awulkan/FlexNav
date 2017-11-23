@@ -125,13 +125,13 @@ body {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    overflow-y: scroll;
+    overflow: hidden;
     direction: rtl;
     max-height: 80vh;
   }
   
   .hide-ul {
-    max-height: 0vh;
+    max-height: 0;
   }
   
   .nav-link {
