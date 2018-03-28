@@ -1,7 +1,7 @@
 # FlexNav
 ## Project has been put on hold.
 
-### [Check out the demo](http://flexnav.bitballoon.com/)
+### [Check out the demo](https://flexnav.netlify.com/)
 
 ## What is it?
 FlexNav is a fixed responsive navbar made with flexbox. Its purpose is to be easy to add to your site, simply by copying the css file and the html navigation. It's also made to be lightweight, meaning no jQuery or other unnecessary stuff. I created this navbar for my own use so that I didn't have to go through the pain of making a new responsive navbar for every site.
