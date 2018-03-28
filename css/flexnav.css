@@ -151,6 +151,7 @@ body {
   }
 
   .nav-link {
+    flex-basis: auto;
     padding: 1rem 1.5rem;
   }
 }
